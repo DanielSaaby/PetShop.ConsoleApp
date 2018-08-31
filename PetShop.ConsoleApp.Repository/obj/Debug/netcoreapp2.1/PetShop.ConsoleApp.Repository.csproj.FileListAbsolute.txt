@@ -1,0 +1,14 @@
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.deps.json
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.pdb
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Core.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Core.Entities.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Core.Entities.pdb
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\bin\Debug\netcoreapp2.1\PetShop.ConsoleApp.Core.pdb
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.csprojAssemblyReference.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.AssemblyInfo.cs
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.csproj.CopyComplete
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Repository\obj\Debug\netcoreapp2.1\PetShop.ConsoleApp.Repository.pdb

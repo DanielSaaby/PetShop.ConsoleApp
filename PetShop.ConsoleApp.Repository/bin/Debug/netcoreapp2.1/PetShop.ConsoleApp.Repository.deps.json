@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "PetShop.ConsoleApp.Repository/1.0.0": {
+        "dependencies": {
+          "PetShop.ConsoleApp.Core": "1.0.0",
+          "PetShop.ConsoleApp.Core.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PetShop.ConsoleApp.Repository.dll": {}
+        }
+      },
+      "PetShop.ConsoleApp.Core/1.0.0": {
+        "dependencies": {
+          "PetShop.ConsoleApp.Core.Entities": "1.0.0"
+        },
+        "runtime": {
+          "PetShop.ConsoleApp.Core.dll": {}
+        }
+      },
+      "PetShop.ConsoleApp.Core.Entities/1.0.0": {
+        "runtime": {
+          "PetShop.ConsoleApp.Core.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetShop.ConsoleApp.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetShop.ConsoleApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetShop.ConsoleApp.Core.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

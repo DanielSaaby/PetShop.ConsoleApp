@@ -1,0 +1,9 @@
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\bin\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.deps.json
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\bin\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\bin\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.pdb
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.csprojAssemblyReference.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.AssemblyInfoInputs.cache
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.AssemblyInfo.cs
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.dll
+C:\Users\Daniels PC\source\repos\PetShop.ConsoleApp\PetShop.ConsoleApp.Core.Entities\obj\Debug\netstandard2.0\PetShop.ConsoleApp.Core.Entities.pdb
